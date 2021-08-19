@@ -1,0 +1,303 @@
+[
+    {
+        "rank": 1,
+        "username": "stephencelis",
+        "name": "Stephen Celis",
+        "url": "https://github.com/stephencelis",
+        "avatar": "https://avatars.githubusercontent.com/u/658?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "SQLite.swift",
+            "description": "A type-safe, Swift-language layer over SQLite3.",
+            "url": "https://github.com/stephencelis/SQLite.swift"
+        }
+    }, {
+        "rank": 2,
+        "username": "andig",
+        "name": "andig",
+        "url": "https://github.com/andig",
+        "avatar": "https://avatars.githubusercontent.com/u/184815?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "evcc",
+            "description": "EV Charge Controller",
+            "url": "https://github.com/andig/evcc"
+        }
+    }, {
+        "rank": 3,
+        "username": "PySimpleGUI",
+        "name": "PySimpleGUI",
+        "url": "https://github.com/PySimpleGUI",
+        "avatar": "https://avatars.githubusercontent.com/u/46163555?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "PySimpleGUI",
+            "description": "Launched in 2018 Actively developed and supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom layout GUI's simply. Python 2.7 & 3 Support. 200+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplo…",
+            "url": "https://github.com/PySimpleGUI/PySimpleGUI"
+        }
+    }, {
+        "rank": 4,
+        "username": "nicolaskruchten",
+        "name": "Nicolas Kruchten",
+        "url": "https://github.com/nicolaskruchten",
+        "avatar": "https://avatars.githubusercontent.com/u/203523?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "pivottable",
+            "description": "Open-source Javascript Pivot Table (aka Pivot Grid, Pivot Chart, Cross-Tab) implementation with drag'n'drop.",
+            "url": "https://github.com/nicolaskruchten/pivottable"
+        }
+    }, {
+        "rank": 5,
+        "username": "nlohmann",
+        "name": "Niels Lohmann",
+        "url": "https://github.com/nlohmann",
+        "avatar": "https://avatars.githubusercontent.com/u/159488?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "json",
+            "description": "JSON for Modern C++",
+            "url": "https://github.com/nlohmann/json"
+        }
+    }, {
+        "rank": 6,
+        "username": "chrisbanes",
+        "name": "Chris Banes",
+        "url": "https://github.com/chrisbanes",
+        "avatar": "https://avatars.githubusercontent.com/u/227486?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "tivi",
+            "description": "Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",
+            "url": "https://github.com/chrisbanes/tivi"
+        }
+    }, {
+        "rank": 7,
+        "username": "felangel",
+        "name": "Felix Angelov",
+        "url": "https://github.com/felangel",
+        "avatar": "https://avatars.githubusercontent.com/u/8855632?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "bloc",
+            "description": "A predictable state management library that helps implement the BLoC design pattern",
+            "url": "https://github.com/felangel/bloc"
+        }
+    }, {
+        "rank": 8,
+        "username": "extrawurst",
+        "name": "Stephan Dilly",
+        "url": "https://github.com/extrawurst",
+        "avatar": "https://avatars.githubusercontent.com/u/776816?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "gitui",
+            "description": "Blazing💥fast terminal-ui for git written in rust🦀",
+            "url": "https://github.com/extrawurst/gitui"
+        }
+    }, {
+        "rank": 9,
+        "username": "a8m",
+        "name": "Ariel Mashraki",
+        "url": "https://github.com/a8m",
+        "avatar": "https://avatars.githubusercontent.com/u/7413593?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "golang-cheat-sheet",
+            "description": "An overview of Go syntax and features.",
+            "url": "https://github.com/a8m/golang-cheat-sheet"
+        }
+    }, {
+        "rank": 10,
+        "username": "Tyriar",
+        "name": "Daniel Imms",
+        "url": "https://github.com/Tyriar",
+        "avatar": "https://avatars.githubusercontent.com/u/2193314?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "vscode-theme-sapphire",
+            "description": "Sapphire is a vibrant blue theme for Visual Studio Code",
+            "url": "https://github.com/Tyriar/vscode-theme-sapphire"
+        }
+    }, {
+        "rank": 11,
+        "username": "jesseduffield",
+        "name": "Jesse Duffield",
+        "url": "https://github.com/jesseduffield",
+        "avatar": "https://avatars.githubusercontent.com/u/8456633?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "lazygit",
+            "description": "simple terminal UI for git commands",
+            "url": "https://github.com/jesseduffield/lazygit"
+        }
+    }, {
+        "rank": 12,
+        "username": "marten-seemann",
+        "name": "Marten Seemann",
+        "url": "https://github.com/marten-seemann",
+        "avatar": "https://avatars.githubusercontent.com/u/1478487?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "quic-interop-runner",
+            "description": "QUIC interop runner",
+            "url": "https://github.com/marten-seemann/quic-interop-runner"
+        }
+    }, {
+        "rank": 13,
+        "username": "leerob",
+        "name": "Lee Robinson",
+        "url": "https://github.com/leerob",
+        "avatar": "https://avatars.githubusercontent.com/u/9113740?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "leerob.io",
+            "description": "✨My portfolio built with Next.js, MDX, Tailwind CSS, and Vercel.",
+            "url": "https://github.com/leerob/leerob.io"
+        }
+    }, {
+        "rank": 14,
+        "username": "octokatherine",
+        "name": "Katherine Peterson",
+        "url": "https://github.com/octokatherine",
+        "avatar": "https://avatars.githubusercontent.com/u/49968061?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "readme.so",
+            "description": null,
+            "url": "https://github.com/octokatherine/readme.so"
+        }
+    }, {
+        "rank": 15,
+        "username": "afc163",
+        "name": "afc163",
+        "url": "https://github.com/afc163",
+        "avatar": "https://avatars.githubusercontent.com/u/507615?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "fanyi",
+            "description": "A🇨🇳and🇺🇸translate tool in your command line.",
+            "url": "https://github.com/afc163/fanyi"
+        }
+    }, {
+        "rank": 16,
+        "username": "tiangolo",
+        "name": "Sebastián Ramírez",
+        "url": "https://github.com/tiangolo",
+        "avatar": "https://avatars.githubusercontent.com/u/1326112?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "fastapi",
+            "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+            "url": "https://github.com/tiangolo/fastapi"
+        }
+    }, {
+        "rank": 17,
+        "username": "katspaugh",
+        "name": "katspaugh",
+        "url": "https://github.com/katspaugh",
+        "avatar": "https://avatars.githubusercontent.com/u/381895?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "wavesurfer.js",
+            "description": "Navigable waveform built on Web Audio and Canvas",
+            "url": "https://github.com/katspaugh/wavesurfer.js"
+        }
+    }, {
+        "rank": 18,
+        "username": "Yenthe666",
+        "name": "Yenthe Van Ginneken",
+        "url": "https://github.com/Yenthe666",
+        "avatar": "https://avatars.githubusercontent.com/u/6352350?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "rental",
+            "description": "Odoo modules related to rental",
+            "url": "https://github.com/Yenthe666/rental"
+        }
+    }, {
+        "rank": 19,
+        "username": "dnephin",
+        "name": "Daniel Nephin",
+        "url": "https://github.com/dnephin",
+        "avatar": "https://avatars.githubusercontent.com/u/442180?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "pre-commit-golang",
+            "description": "Golang hooks for pre-commit",
+            "url": "https://github.com/dnephin/pre-commit-golang"
+        }
+    }, {
+        "rank": 20,
+        "username": "blindpirate",
+        "name": "Bo Zhang",
+        "url": "https://github.com/blindpirate",
+        "avatar": "https://avatars.githubusercontent.com/u/12689835?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "no2-linggong-road",
+            "description": "战棋类RPG游戏：凌工路2号",
+            "url": "https://github.com/blindpirate/no2-linggong-road"
+        }
+    }, {
+        "rank": 21,
+        "username": "Rich-Harris",
+        "name": "Rich Harris",
+        "url": "https://github.com/Rich-Harris",
+        "avatar": "https://avatars.githubusercontent.com/u/1162160?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "pancake",
+            "description": "Experimental charting library for Svelte",
+            "url": "https://github.com/Rich-Harris/pancake"
+        }
+    }, {
+        "rank": 22,
+        "username": "mislav",
+        "name": "Mislav Marohnić",
+        "url": "https://github.com/mislav",
+        "avatar": "https://avatars.githubusercontent.com/u/887?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "gh-branch",
+            "description": "gh branch extension",
+            "url": "https://github.com/mislav/gh-branch"
+        }
+    }, {
+        "rank": 23,
+        "username": "MichaIng",
+        "name": "MichaIng",
+        "url": "https://github.com/MichaIng",
+        "avatar": "https://avatars.githubusercontent.com/u/28480705?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "DietPi",
+            "description": "Lightweight justice for your single-board computer!",
+            "url": "https://github.com/MichaIng/DietPi"
+        }
+    }, {
+        "rank": 24,
+        "username": "me-no-dev",
+        "name": "Me No Dev",
+        "url": "https://github.com/me-no-dev",
+        "avatar": "https://avatars.githubusercontent.com/u/12663778?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "ESPAsyncWebServer",
+            "description": "Async Web Server for ESP8266 and ESP32",
+            "url": "https://github.com/me-no-dev/ESPAsyncWebServer"
+        }
+    }, {
+        "rank": 25,
+        "username": "blakeblackshear",
+        "name": "Blake Blackshear",
+        "url": "https://github.com/blakeblackshear",
+        "avatar": "https://avatars.githubusercontent.com/u/569905?s=96&v=4",
+        "since": "daily",
+        "popularRepository": {
+            "repositoryName": "frigate",
+            "description": "NVR with realtime local object detection for IP cameras",
+            "url": "https://github.com/blakeblackshear/frigate"
+        }
+    }
+]
