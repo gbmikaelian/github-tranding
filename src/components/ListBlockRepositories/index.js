@@ -91,7 +91,7 @@ export const ListBlockRepositories = ({children, location, ...props}) => {
                                     {
                                         v.builtBy.map(v => (
                                             <a href={v.url}>
-                                                <img width={20} src={v.avatar} />
+                                                <img width={20} src={v.avatar} alt="" />
                                             </a>
                                         ))
                                     }

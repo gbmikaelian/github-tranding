@@ -10,7 +10,7 @@ export const Repositories = () => {
     const dispatch = useDispatch()
     useEffect(() => {
         dispatch(getRepositories())
-    }, [])
+    }, [dispatch])
     return (
         <Layout>
             <Table>

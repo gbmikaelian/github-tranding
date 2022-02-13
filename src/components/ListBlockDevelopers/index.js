@@ -1,10 +1,8 @@
-import React, {useState} from 'react'
+import React from 'react'
 import { makeStyles, createTheme, ThemeProvider } from '@material-ui/core/styles';
-import ButtonGroup from '@material-ui/core/ButtonGroup';
 import Button from '@material-ui/core/Button';
 import { withRouter } from "react-router";
 import clsx from 'clsx';
-import { MergeType, StarBorder } from '@material-ui/icons';
 import { grey } from '@material-ui/core/colors';
 import Icon from '../Icons';
 
@@ -94,7 +92,7 @@ export const ListBlockDevelopers = (props) => {
                     <div className={classes.sectionBlock}>
                         <a href={v.url} className={classes.titleBlock}>
                             <div className={classes.rank}>{v.rank}</div>
-                            <img width={48} src={v.avatar} />
+                            <img width={48} src={v.avatar} alt="" />
                             <div>
                                 <h1 className={classes.title}>
                                     {v.name} 

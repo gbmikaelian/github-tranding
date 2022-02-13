@@ -1,4 +1,4 @@
-export default (number) => {
+const numberBeautifier =  (number) => {
     number = number.toString();
 
     
@@ -14,3 +14,5 @@ export default (number) => {
     }
     return numberStr;
   }
+
+  export default numberBeautifier

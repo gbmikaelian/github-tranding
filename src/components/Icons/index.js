@@ -8,7 +8,8 @@ const icons = {
     merge
 }
 
-export default (props) => {
+const Icons = (props) => {
     const Icon = icons[props.iconName]
     return <Icon {...props} />
 }
+export default Icons

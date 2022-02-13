@@ -11,7 +11,7 @@ export const Developers = () => {
     const dispatch = useDispatch()
     useEffect(() => {
         dispatch(getDevelopers())
-    }, [])
+    }, [dispatch])
     return (
         <Layout>
             <Table>
