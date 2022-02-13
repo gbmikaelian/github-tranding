@@ -1,25 +1,20 @@
-name: node.js CI
-
-on: [push]
-
-jobs: 
-  build: 
-    runs-on: ubuntu-latest
-    
-    strategy: 
-      matrix:
-        node-version: [14.x]
-        
-    steps: 
-    - uses: actions/checkout@v2
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v1
-      with: 
-        node-version: ${{ matrix.node-version }}
-    - name: run install, build, and eject
+runs-on: ubuntu-latest
+steps:
+- name: Install SSH key
+  uses: gbmikaelian/github-tranding@v2
+  with:
+    key: ${{ secrets.SSH_PRIVATE_KEY }}
+    name: id_rsa # optional
+    known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+    config: ${{ secrets.CONFIG }} # ssh_config; optional
+    if_key_exists: fail # replace / ignore / fail; optional (defaults to fail)
+- name: run install, build
       run: |
         npm install
         npm run build
-        npm run eject
-        
-    
+- name: rsync over ssh
+  run: rsync ./build/ ${{ secrets.SSH_USER }}@r${{ secrets.SSH_HOST }}:projects/
+- name: Adding Known Hosts
+  run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+- name: Deploy with rsync
+  run: rsync -avz ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:projects/
