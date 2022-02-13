@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Install and build
     steps:
-    - uses: gbmikaelian/github-tranding@v2
+    - uses: gbmikaelian/github-tranding@1
       name: Check out repository
     - uses: actions/setup-node@v1
       name: Set up Node.js
