@@ -9,9 +9,9 @@ steps:
     config: ${{ secrets.CONFIG }} # ssh_config; optional
     if_key_exists: fail # replace / ignore / fail; optional (defaults to fail)
 - name: run install, build
-      run: |
-        npm install
-        npm run build
+  run: |
+    npm install
+    npm run build
 - name: rsync over ssh
   run: rsync ./build/ ${{ secrets.SSH_USER }}@r${{ secrets.SSH_HOST }}:projects/
 - name: Adding Known Hosts
